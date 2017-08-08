@@ -24,3 +24,27 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+
+cli packages: (.\blank\node_modules)
+
+    @ionic/cli-plugin-cordova       : 1.6.2
+    @ionic/cli-plugin-ionic-angular : 1.4.1
+    @ionic/cli-utils                : 1.7.0
+    ionic (Ionic CLI)               : 3.7.0
+
+global packages:
+
+    Cordova CLI : 7.0.1
+
+local packages:
+
+    @ionic/app-scripts : 2.1.3
+    Cordova Platforms  : browser 4.1.0
+    Ionic Framework    : ionic-angular 3.6.0
+
+System:
+
+    Android SDK Tools : 25.2.5
+    Node              : v6.10.3
+    OS                : Windows 10
+    npm               : 3.10.10
